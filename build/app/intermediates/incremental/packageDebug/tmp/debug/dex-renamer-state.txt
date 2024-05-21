@@ -1,0 +1,4 @@
+#Mon May 13 07:11:15 PDT 2024
+base.0=C\:\\Users\\MYSTERY\\Desktop\\New_Force\\todo_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
